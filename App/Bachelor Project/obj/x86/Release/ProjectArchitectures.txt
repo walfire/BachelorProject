@@ -1,2 +1,0 @@
-D:\Sebastian\Bachelor Project\App\Bachelor Project\Bachelor Project.csproj;x86
-D:\Sebastian\Bachelor Project\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86

@@ -1,2 +1,0 @@
-MainPackage=D:\Sebastian\Bachelor Project\App\Bachelor Project\bin\x86\Release\Bachelor Project_1.0.0.0_x86.appx
-SymbolPackage=D:\Sebastian\Bachelor Project\App\Bachelor Project\AppPackages\Bachelor Project_1.0.0.0_Test\Bachelor Project_1.0.0.0_x86.appxsym
