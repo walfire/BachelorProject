@@ -74,6 +74,7 @@ MonoBehaviour:
   raycastProviderType:
     reference: Microsoft.MixedReality.Toolkit.Input.DefaultRaycastProvider, Microsoft.MixedReality.Toolkit.Services.InputSystem
   focusQueryBufferSize: 128
+  focusIndividualCompoundCollider: 0
   inputActionsProfile: {fileID: 11400000, guid: 8ffa03c424aa71d41899d49d751798b2,
     type: 2}
   inputActionRulesProfile: {fileID: 11400000, guid: 03945385d89102f41855bc8f5116b199,
@@ -87,5 +88,5 @@ MonoBehaviour:
     type: 2}
   controllerVisualizationProfile: {fileID: 11400000, guid: 345c06fdf3732db46b96299bd3cba653,
     type: 2}
-  handTrackingProfile: {fileID: 11400000, guid: 7f1e3cd673742f94ca860ac7ae733024,
+  handTrackingProfile: {fileID: 11400000, guid: 39f86ffd73d3b7746b854b4b549c1a23,
     type: 2}
