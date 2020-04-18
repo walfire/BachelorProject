@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MixedRealityToolkit.Examples/Demos/HandTracking/Scenes/NearMenuExamples.unity
     guid: bf3eb3415bffceb41810526380c2c71c
+  - enabled: 0
+    path: Assets/MixedRealityToolkit.Examples/Demos/Input/Scenes/Speech/SpeechInputExamples.unity
+    guid: 7339e928ad0b8124ba1b349eca071ab6
   m_configObjects: {}
