@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:uap2="http://schemas.microsoft.com/appx/manifest/uap/windows10/2" xmlns:uap3="http://schemas.microsoft.com/appx/manifest/uap/windows10/3" xmlns:uap4="http://schemas.microsoft.com/appx/manifest/uap/windows10/4" xmlns:iot="http://schemas.microsoft.com/appx/manifest/iot/windows10" xmlns:mobile="http://schemas.microsoft.com/appx/manifest/mobile/windows10" IgnorableNamespaces="uap uap2 uap3 uap4 mp mobile iot" xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10">
-  <Identity Name="Template3D" Publisher="CN=Sebastian Frison" Version="1.0.0.0" />
+  <Identity Name="Template3D" Publisher="CN=Sebastian Frison" Version="1.0.1.0" />
   <mp:PhoneIdentity PhoneProductId="cc4df6c7-fc98-4813-b76c-46bdc669a645" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Bachelor Project Unity2018</DisplayName>

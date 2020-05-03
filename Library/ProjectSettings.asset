@@ -547,7 +547,7 @@ PlayerSettings:
   scriptingDefineSymbols:
     4: 
     7: 
-    14: 
+    14: release
   platformArchitecture: {}
   scriptingBackend:
     Metro: 2
@@ -561,7 +561,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Template3D
-  metroPackageVersion: 1.0.0.0
+  metroPackageVersion: 1.0.1.0
   metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: Sebastian Frison

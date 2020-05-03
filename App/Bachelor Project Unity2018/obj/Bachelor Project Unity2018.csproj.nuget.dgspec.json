@@ -1,18 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj": {}
+    "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj": {}
   },
   "projects": {
-    "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj": {
+    "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj",
+        "projectUniqueName": "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj",
         "projectName": "Bachelor Project Unity2018",
-        "projectPath": "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj",
-        "projectJsonPath": "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\project.json",
+        "projectPath": "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\Bachelor Project Unity2018.csproj",
+        "projectJsonPath": "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\project.json",
         "packagesPath": "C:\\Users\\holooneEmployee\\.nuget\\packages\\",
-        "outputPath": "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\obj\\",
+        "outputPath": "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\obj\\",
         "projectStyle": "ProjectJson",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"

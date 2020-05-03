@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KblveG/HbAWrFvX87Y5uGvb335NV2FOamSrBK/tC6BlFXauq4pDvVqLudsYrHs+5kLhQA9+fYTf4O9K93KcwgA==",
+  "dgSpecHash": "S3BtpShihi3CyvJGDpg3Wfm2dnK2EU6D5A576fUFOpBgiGpLjSmUTu3tX28qK16070+Moa/QqTyVveU6QWf31Q==",
   "success": true,
-  "projectFilePath": "C:\\Sebastian\\Project\\Bachelor Project Unity2018\\App\\Bachelor Project Unity2018\\project.json",
+  "projectFilePath": "C:\\Sebastian\\Project\\BA Project\\App\\Bachelor Project Unity2018\\project.json",
   "expectedPackageFiles": [
     "C:\\Users\\holooneEmployee\\.nuget\\packages\\microsoft.applicationinsights\\1.0.0\\microsoft.applicationinsights.1.0.0.nupkg.sha512",
     "C:\\Users\\holooneEmployee\\.nuget\\packages\\microsoft.applicationinsights.persistencechannel\\1.0.0\\microsoft.applicationinsights.persistencechannel.1.0.0.nupkg.sha512",

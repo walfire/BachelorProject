@@ -1,1 +1,1 @@
-C:\Sebastian\Project\Bachelor Project Unity2018\App\Bachelor Project Unity2018\Bachelor Project Unity2018.csproj;x86
+C:\Sebastian\Project\BA Project\App\Bachelor Project Unity2018\Bachelor Project Unity2018.csproj;x86

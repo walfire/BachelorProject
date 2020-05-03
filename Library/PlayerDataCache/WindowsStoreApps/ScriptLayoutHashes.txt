@@ -1,8 +1,8 @@
 WindowsStoreApps
 PlayerPath?
-C:/Sebastian/Project/Bachelor Project Unity2018/App
+C:/Sebastian/Project/BA Project/App
 SceneListBegin?
-Assets/Scenes/Prototyping Scene.unity
+Assets/MixedRealityToolkit.Examples/Demos/Solvers/Scenes/SolverExamples.unity
 SceneListEnd?
 6fc2f435cda5949aa73cb0914ae84364 Microsoft.MixedReality.Toolkit.SDK.dll:Microsoft.MixedReality.Toolkit.Input.ScreenSpaceMousePointer
 c4a2ae8d92316554f46813565a38c329 Microsoft.MixedReality.Toolkit.SDK.dll:Microsoft.MixedReality.Toolkit.UI.SpeechConfirmationTooltip

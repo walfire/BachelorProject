@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Prototyping Scene.unity
+- path: Assets/MixedRealityToolkit.Examples/Demos/Solvers/Scenes/SolverExamples.unity
   isLoaded: 1
   isActive: 1

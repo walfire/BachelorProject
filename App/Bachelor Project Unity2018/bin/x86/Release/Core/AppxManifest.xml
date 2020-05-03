@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="Template3D" Publisher="CN=Sebastian Frison" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="Template3D" Publisher="CN=Sebastian Frison" Version="1.0.1.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="cc4df6c7-fc98-4813-b76c-46bdc669a645" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Bachelor Project Unity2018</DisplayName>

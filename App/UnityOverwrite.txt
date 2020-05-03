@@ -10,7 +10,7 @@ Bachelor Project Unity2018\App.cs: 7C3EF64AEFEF8273500D250F0BA7D237
 Bachelor Project Unity2018\AssemblyConverterArgs.txt: 0918D6C5627ABCC62710E4E0D2F32B45
 Bachelor Project Unity2018\Bachelor Project Unity2018.csproj: DE6FD09B2B4080B12CD1F4EFE4E17A2A
 Bachelor Project Unity2018\Bachelor Project Unity2018.csproj.user: modified
-Bachelor Project Unity2018\Package.appxmanifest: 0F361FB07E8F6858266A347B1C5C2F3F
+Bachelor Project Unity2018\Package.appxmanifest: 4DFE955B309F12B823F82EBD0223F891
 Bachelor Project Unity2018\project.json: CC10A2BA10723B75F669B6E9E5EE19C9
 Bachelor Project Unity2018\Assets\SplashScreen.scale-200.png: A85C1D7624B6902CF8CEBD6F0200A826
 Bachelor Project Unity2018\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
